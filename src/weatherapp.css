@@ -62,7 +62,7 @@ form {
   cursor: grabbing;
 }
 .coded-by {
-  font-size: x-small;
+  font-size: medium;
   font-style: italic;
   text-align: left;
   color: green;
